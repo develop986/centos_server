@@ -20,7 +20,7 @@
 
 ## データベース
 
-- [MongoDB](./80_MongoDB)
+- [MongoDB](./80_MongoDB.md)
 
 ## ソフトウェア
 
