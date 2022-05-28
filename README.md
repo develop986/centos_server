@@ -17,6 +17,8 @@
 ## 開発ソフト
 
 - [Node.js](./80_NodeJs.md)
+- [OpenJDK](./80_OpenJDK.md)
+  - Gradle含む
 
 ## データベース
 
